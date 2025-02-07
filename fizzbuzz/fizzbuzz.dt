@@ -1,0 +1,5 @@
+mod-3	mod-5	number	message
+0	0	false	fizzbuzz
+0		false	fizz
+	0	false	buzz
+		true
